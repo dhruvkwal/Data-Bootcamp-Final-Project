@@ -14,5 +14,5 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-**Project Description**
+**Project Description: **
 Airbnb is the world’s most prominent online hospitality marketplace. It has a publicly available dataset, divided region wise which has been used in our predictions and analytics to determine how various features of property correlate to the price of the listing in the Airbnb website. In order to make our predictions more robust, we also used the text reviews by the customers and performed sentiment analysis on it, subsequently adding it as a feature for training the model. For the training part, we used data for Nashville, Tennessee but the model can be used for any region since the data structure is uniform throughout. For future work, we hope to collect more extensive and more diverse dataset to enhance its performance and generalizability.
